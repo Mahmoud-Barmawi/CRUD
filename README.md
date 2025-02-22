@@ -1,15 +1,16 @@
-🎓 HeyBrain – Course Management Platform
+🔄 Full CRUD Project
 Description:
-Created a platform for managing and categorizing online courses.
+Built a CRUD web app with user notifications using SweetAlert.
 
 Technologies Used:
 
 HTML
 CSS
-Bootstrap
 JavaScript
-GitHub Repository:
-HeyBrain – Course Platform
+Bootstrap
+SweetAlerts
+
 
 Project Overview:
-HeyBrain is a simple course management system where users can manage, categorize, and access online courses. It uses a clean and responsive design built with HTML, CSS, and Bootstrap.
+This project allows users to perform full CRUD (Create, Read, Update, Delete) operations on data with real-time feedback. The app includes interactive notifications powered by SweetAlert.
+
