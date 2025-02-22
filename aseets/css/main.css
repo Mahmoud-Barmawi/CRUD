@@ -1,0 +1,10 @@
+.swal2-icon .swal2-icon-content {
+    display: flex;
+    align-items: center;
+    font-size: 200px;
+}
+body{
+    font-size: larger;
+
+    background: linear-gradient(90deg,#d9d1d1,#ffffff);
+}
